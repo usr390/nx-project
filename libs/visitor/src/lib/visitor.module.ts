@@ -8,13 +8,15 @@ import { MatSidenavModule } from '@angular/material/sidenav';
 import { MatIconModule } from '@angular/material/icon';
 import { MatListModule } from '@angular/material/list';
 import { RouterModule } from '@angular/router';
+import { PoiModule } from '@packt/poi';
+import { PoiListComponent } from './poi-list/poi-list.component';
 
 @NgModule({
-  imports: [CommonModule, LayoutModule, MatToolbarModule, MatButtonModule, MatSidenavModule, MatIconModule, MatListModule, RouterModule.forChild([
+  imports: [CommonModule, LayoutModule, MatToolbarModule, MatButtonModule, MatSidenavModule, MatIconModule, MatListModule, PoiModule, RouterModule.forChild([
 
     {path: '', component: VisitorComponent}
 
-  ])],
-  declarations: [VisitorComponent],
+  ]),],
+  declarations: [VisitorComponent, PoiListComponent],
 })
 export class VisitorModule {}
