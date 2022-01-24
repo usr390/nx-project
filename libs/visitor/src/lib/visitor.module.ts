@@ -10,9 +10,10 @@ import { MatListModule } from '@angular/material/list';
 import { RouterModule } from '@angular/router';
 import { PoiModule } from '@packt/poi';
 import { PoiListComponent } from './poi-list/poi-list.component';
+import { GoogleMapsModule } from '@angular/google-maps';
 
 @NgModule({
-  imports: [CommonModule, LayoutModule, MatToolbarModule, MatButtonModule, MatSidenavModule, MatIconModule, MatListModule, PoiModule, RouterModule.forChild([
+  imports: [CommonModule, LayoutModule, MatToolbarModule, MatButtonModule, MatSidenavModule, MatIconModule, MatListModule, PoiModule, GoogleMapsModule, RouterModule.forChild([
 
     {path: '', component: VisitorComponent}
 
