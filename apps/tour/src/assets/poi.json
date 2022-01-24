@@ -1,26 +1,50 @@
 [
     {
       "id": 1,
-      "lat": 37.97170989160553,
-      "lng": 23.725749197701326,
-      "name": "Acropolis",
-      "description": "Acropolis of Athens",
-      "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/The_Acropolis_of_Athens_viewed_from_the_Hill_of_the_Muses_%2814220794964%29.jpg/390px-The_Acropolis_of_Athens_viewed_from_the_Hill_of_the_Muses_%2814220794964%29.jpg"
+      "lat": 26.161859,
+      "lng": -97.912835,
+      "name": "RGV Livestock Show",
+      "description": "Yearly livestock show with food and carnival",
+      "imgUrl": "https://laferianews.net/wp-content/uploads/2013/03/livestockshow.jpg"
     },
     {
       "id": 2,
-      "lat": 38.50172172340826,
-      "lng": 22.51021540014237,
-      "name": "Delphi",
-      "description": "Delphi",
-      "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Ac.delphi1.jpg/450px-Ac.delphi1.jpg"
+      "lat": 26.149749,
+      "lng": -97.943935,
+      "name": "Wesmer Drive-in",
+      "description": "Iconic south texas drive-in theater",
+      "imgUrl": "https://ix-cdn.brightedge.com/images/146407/146407_32020c1c51d5433b94372f0dc73f0fd3_1558738294.jpeg"
     },
     {
       "id": 3,
-      "lat": 40.62660913661512,
-      "lng": 22.948404240113845,
-      "name": "White Tower",
-      "description": "White Tower of Thessaloniki",
-      "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/WhiteTowerThessaloniki_%283%29.JPG/330px-WhiteTowerThessaloniki_%283%29.JPG"
+      "lat": 26.201469,
+      "lng": -98.238265,
+      "name": "Cine El Rey",
+      "description": "Iconic old-time stage theater",
+      "imgUrl": "https://noticiasya.com/wp-content/uploads/sites/3/2020/05/cine-el-rey.jpg"
+    },
+    {
+      "id": 4,
+      "lat": 26.108080,
+      "lng": -97.167631,
+      "name": "SPI",
+      "description": "Popular spring break/summer island location",
+      "imgUrl": "https://features.texasmonthly.com/wp-content/uploads/sites/2/2018/03/aerial_beach.jpg"
+    },
+    {
+      "id": 5,
+      "lat": 26.306676,
+      "lng": -98.173705,
+      "name": "Univerity of Texas RGV",
+      "description": "Popular university in South Texas",
+      "imgUrl": "https://features.texasmonthly.com/wp-content/uploads/sites/2/2018/03/aerial_beach.jpg"
+    },
+    {
+      "id": 6,
+      "lat": 26.143962,
+      "lng": -97.912129,
+      "name": "Mercedes Early College",
+      "description": "My highschool",
+      "imgUrl": "https://meca.misdtx.net/pics/MERISD-MEECA_LOGO.gif"
     }
   ]
